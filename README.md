@@ -15,3 +15,17 @@ These notes are the result of **deep reading, research, and self-reflection**. I
 
 I’ve also included curated **apps, websites, and tools** that have supported my EI journey. Contributions, discussions, and new perspectives are welcome—let’s improve and learn together.
 
+To use this repository, begin with the overview of Emotional Intelligence (EI) and the Team Emotional Intelligence model (see links below). Each markdown file contains draft material developed using generative models and structured prompts, inspired by references I have studied. The structure of the files reflects my experimentation with different prompts and methods.
+
+I am particularly fascinated by the neuroscience and psychology behind these principles, as they provide both a working model and evidence of why these skills matter—and how they shape our brain and behavior.
+
+My long-term goal is to create coaching GPTs that help people practice and apply these techniques. I welcome collaboration and feedback to refine the material. You’ll also find references to books I’ve read, which provide additional context for understanding my perspective.
+
+- [EI Overview: The Four Domains and Twelve Competencies – Daniel Goleman Emotional Intelligence Courses](https://danielgolemanemotionalintelligence.com/ei-overview-the-four-domains-and-twelve-competencies/)  
+- [The Team Emotional Intelligence Model: Connection & Higher Performance](https://humanfirstworks.com/team-emotional-intelligence-and-higher-performance-vanessa-druskat/)
+
+- [Resources](https://github.com/ahtamjidi/eicourse/blob/main/Resources.md)   
+- [Books that I read](https://github.com/ahtamjidi/eicourse/blob/main/books%20that%20I%20read.md)
+
+ 	  
+ 
